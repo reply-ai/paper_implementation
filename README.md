@@ -4,7 +4,7 @@
 
 
 |발표 내용 | 발표일 | 발표자 | 링크 |
-| :--- | :----: | :----: | -----: | 
+| :--- | :----: | :----: | ---: | 
 |논문 빨리 효율적으로 읽는법|18/10/17| 조원재 |.|
 |4가지 CNN 살펴보기: AlexNET, VGG, GoogLeNet, ResNet |	18/10/25|김정원|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181025_AlexNet%2C%20VGG%2C%20GoogLeNet%2C%20ResNet.pptx)|
 |[실습] 이미지 처리 실습하기 |18/10/25|이춘호|[링크](https://github.com/reply-ai/paper_implementation/blob/master/181024_Image_Processing_chlee.ipynb)|
@@ -19,8 +19,8 @@
 |[실습] Custom dataset 만들어보기|18/11/28|조원재|.|
 |이미지의 각 픽셀을 분류하는 Semantic Segmentation|18/11/28|이민우|.|
 |[실습] Convolutional Neural Network(CNN)으로 숫자 분류기 구현하기|18/12/5|이진호|.|
-|[실습] Custom dataset을 이용한 분류기 구현하기|18/12/5|김정원|[링크1] (https://github.com/reply-ai/paper_implementation/blob/master/20181205_Custom%20dataset%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.ipynb)|
-| - | - | - |[링크2] (https://github.com/reply-ai/paper_implementation/blob/master/20181205_Custom%20dataset%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.ipynb)|
+|[실습] Custom dataset을 이용한 분류기 구현하기|18/12/5|김정원|[링크1](https://github.com/reply-ai/paper_implementation/blob/master/20181205_Custom%20dataset%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.ipynb)|
+| - | - | - |[링크2](https://github.com/reply-ai/paper_implementation/blob/master/20181205_Custom%20dataset%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.ipynb)|
 |[실습] 99% 정확도를 넘기는 정교한 CNN 구현하기 |18/12/12|조원재|[링크](https://github.com/reply-ai/paper_implementation/blob/master/181212-Hiragana-CNN-KERAS.ipynb)|
 |Residual Network가 왜 잘 되는지 해석해보기|18/12/12|이민우|.|
 |Weakly Supervised Localization|18/12/19|김정원|.|
