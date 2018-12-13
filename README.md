@@ -1,5 +1,6 @@
-# paper_implementation - https://www.edwith.org/deeplearningchoi/lecture/15295/
+# paper_implementation 
 
+* 참고 영상 - https://www.edwith.org/deeplearningchoi/lecture/15295/
 
 
 |발표 내용 | 발표일 | 발표자 | 발표 링크 |
