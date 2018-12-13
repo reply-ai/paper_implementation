@@ -8,11 +8,12 @@
 |논문 빨리 효율적으로 읽는법|18/10/17| 조원재 |.|
 |4가지 CNN 살펴보기: AlexNET, VGG, GoogLeNet, ResNet |	18/10/25|김정원|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181025_AlexNet%2C%20VGG%2C%20GoogLeNet%2C%20ResNet.pptx)|
 |[실습] 이미지 처리 실습하기 |18/10/25|이춘호|[링크](https://github.com/reply-ai/paper_implementation/blob/master/181024_Image_Processing_chlee.ipynb)|
-|[실습] MNIST 데이터셋 사용법 익혀보기|18/10/31|이민우|.|
+|[실습] MNIST 데이터셋 사용법 익혀보기|18/10/31|이민우|[링크1](https://brunch.co.kr/@minwoo/25)|
+|-|-|-|[링크2](https://docs.google.com/presentation/d/1xx0kfm4M3FEsqF5yp7acsqAp_ADn9_kjb6ncld73D9c/edit?usp=sharing)|
 |Overfitting을 막는 regularization|18/10/31|이진호|.|
 |Nature 논문으로 살펴보는 AlphaGo 알고리즘|18/11/7|조원재|.|
 |[실습] 기본 Tensorflow 문법 실습|18/11/7|이진호|.|
-|[실습] Logistic Regression으로 숫자 분류기를 구현하기|18/11/14|이민우|.|
+|[실습] Logistic Regression으로 숫자 분류기를 구현하기|18/11/14|이민우|[링크](https://brunch.co.kr/@minwoo/26)|
 |Optimization 방법론 |18/11/14|이춘호|[링크](https://github.com/reply-ai/paper_implementation/blob/master/181114_reply-ai_s4_Optimization_chlee.md)|
 |Restricted Boltzmann Machine |18/11/21|김정원|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181121_Restricted%20Boltzmann%20Machine.pptx)|
 |[실습] Multilayer Perceptron(MLP) 로 숫자 분류기 구현하기|18/11/21|이춘호|.|
