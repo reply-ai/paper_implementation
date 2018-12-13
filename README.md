@@ -5,9 +5,9 @@
 
 |발표 내용 | 발표일 | 발표자 |
 | :--- | :----: | :----: |
-|논문 빨리 효율적으로 읽는법 (https://www.youtube.com/watch?v=V6zixdCIOqw&feature=youtu.be)|18/10/17| 조원재 |
+|논문 빨리 효율적으로 읽는법|18/10/17| 조원재 |
 |4가지 CNN 살펴보기: AlexNET, VGG, GoogLeNet, ResNet|	18/10/25|김정원|
-|[실습] 이미지 처리 실습하기|18/10/25|이춘호|
+|[실습] 이미지 처리 실습하기 [링크](https://github.com/reply-ai/paper_implementation/blob/master/181024_Image_Processing_chlee.ipynb)|18/10/25|이춘호|
 |[실습] MNIST 데이터셋 사용법 익혀보기|18/10/31|이민우|
 |Overfitting을 막는 regularization|18/10/31|이진호|
 |Nature 논문으로 살펴보는 AlphaGo 알고리즘|18/11/7|조원재|
