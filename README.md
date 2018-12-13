@@ -16,7 +16,8 @@
 |[실습] Logistic Regression으로 숫자 분류기를 구현하기|18/11/14|이민우|[링크](https://brunch.co.kr/@minwoo/26)|
 |Optimization 방법론 |18/11/14|이춘호|[링크](https://github.com/reply-ai/paper_implementation/blob/master/181114_reply-ai_s4_Optimization_chlee.md)|
 |Restricted Boltzmann Machine |18/11/21|김정원|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181121_Restricted%20Boltzmann%20Machine.pptx)|
-|[실습] Multilayer Perceptron(MLP) 로 숫자 분류기 구현하기|18/11/21|이춘호|.|
+|[실습] Multilayer Perceptron(MLP) 로 숫자 분류기 구현하기|18/11/21|이춘호|[링크1](https://drive.google.com/file/d/1xcshMTGm8T8Kti6yOmI6khtQuApd6c2a/view?usp=sharing)|
+| - | - | - | [링크2](https://colab.research.google.com/drive/1AQ0PI2YjfIS9O9KN2fPpxQpUrAhYAAt0)|
 |[실습] Custom dataset 만들어보기|18/11/28|조원재|.|
 |이미지의 각 픽셀을 분류하는 Semantic Segmentation|18/11/28|이민우|.|
 |[실습] Convolutional Neural Network(CNN)으로 숫자 분류기 구현하기|18/12/5|이진호|.|
