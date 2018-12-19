@@ -79,7 +79,7 @@ https://www.dropbox.com/s/b5xr68n26kns7o9/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%2
 
 <img src='https://www.dropbox.com/s/2qnf0slby27ed5a/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-12-16%2019.28.52.png?raw=1'>
 
-* RCNN에 가장 큰 단점을 보완 : bounding box 개수에 따라 CNN이 2,000번 돌았으나, CNNDL 1번 돌음
+* RCNN에 가장 큰 단점을 보완 : bounding box 개수에 따라 CNN이 2,000번 돌았으나, CNN이 1번 돌음
 * CNN은 fixed-input-size가 필요하여, RCNN은 여러 다른 사이즈를 갖는 bounding box를 추출함
 
 <img src='https://www.dropbox.com/s/ktkntdi75eneigp/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-12-16%2019.29.01.png?raw=1'>
