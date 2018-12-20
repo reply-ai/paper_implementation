@@ -25,7 +25,7 @@
 | - | - | - |[링크2](https://github.com/reply-ai/paper_implementation/blob/master/20181205_Custom%20dataset%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.ipynb)|
 |[실습] 99% 정확도를 넘기는 정교한 CNN 구현하기 |18/12/12|조원재|[링크](https://github.com/reply-ai/paper_implementation/blob/master/181212-Hiragana-CNN-KERAS.ipynb)|
 |Residual Network가 왜 잘 되는지 해석해보기|18/12/12|이민우|.|
-|Weakly Supervised Localization|18/12/19|김정원|[https://github.com/reply-ai/paper_implementation/blob/master/20181219_Weakly%20Supervised%20Localization.pptx|
+|Weakly Supervised Localization|18/12/19|김정원|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181219_Weakly%20Supervised%20Localization.pptx)|
 |Image Detection 방법론: RCNN, SPPnet, FastRCNN, FasterRCNN|18/12/19|이춘호|.|
 |Image Detection 방법론: AttentionNet, SSD, YOLO, YOLOv2|18/12/26|조원재|.|
 |이미지와 질문이 주어졌을 때 답을 맞추는 Visual QnA|18/12/26|김정원|.|
