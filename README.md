@@ -26,13 +26,13 @@
 |[실습] 99% 정확도를 넘기는 정교한 CNN 구현하기 |18/12/12|조원재|[링크](https://github.com/reply-ai/paper_implementation/blob/master/181212-Hiragana-CNN-KERAS.ipynb)|
 |Residual Network가 왜 잘 되는지 해석해보기|18/12/12|이민우|.|
 |Weakly Supervised Localization|18/12/19|김정원|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181219_Weakly%20Supervised%20Localization.pptx)|
-|Image Detection 방법론: RCNN, SPPnet, FastRCNN, FasterRCNN|18/12/19|이춘호|.|
+|Image Detection 방법론: RCNN, SPPnet, FastRCNN, FasterRCNN|18/12/19|이춘호|[링크](https://github.com/reply-ai/paper_implementation/blob/master/181219_reply-ai_s4_ImageDetection_chlee.md)|
 |Image Detection 방법론: AttentionNet, SSD, YOLO, YOLOv2|18/12/26|조원재|.|
 |이미지와 질문이 주어졌을 때 답을 맞추는 Visual QnA|18/12/26|김정원|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181226_Visual%20QA.pptx)|
 |이미지를 설명하는 문장을 만들어내는 Image Captioning|19/1/2|이진호|.|
 |딥러닝을 이용한 강화학습|19/1/2|조원재|.|
 |Recurrent Neural Network(RNN): LSTM|19/1/9|이진호|.|
-|RNN을 이용해 손글씨를 만드는 Handwriting generation|19/1/9|이춘호|.|
+|RNN을 이용해 손글씨를 만드는 Handwriting generation|19/1/9|이춘호|[링크](https://github.com/reply-ai/paper_implementation/blob/master/190109_Handwriting_generation_chlee.md)|
 |주어진 사진을 원하는 화풍으로 만드는 Neural Style|19/1/16|이민우|.|
 |Generative Adversarial Network|19/1/16|이진호|.|
 |[실습] RNN 실습|19/1/23|김정원|.|
