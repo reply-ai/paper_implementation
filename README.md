@@ -30,9 +30,9 @@
 |Image Detection 방법론: AttentionNet, SSD, YOLO, YOLOv2|18/12/26|조원재|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181226-Reply-AI.pdf)|
 |이미지와 질문이 주어졌을 때 답을 맞추는 Visual QnA|18/12/26|김정원|[링크](https://github.com/reply-ai/paper_implementation/blob/master/20181226_Visual%20QA.pptx)|
 |이미지를 설명하는 문장을 만들어내는 Image Captioning|19/1/2|이진호|.|
-|딥러닝을 이용한 강화학습|19/1/2|조원재|.|
 |Recurrent Neural Network(RNN): LSTM|19/1/9|이진호|.|
 |RNN을 이용해 손글씨를 만드는 Handwriting generation|19/1/9|이춘호|[링크](https://github.com/reply-ai/paper_implementation/blob/master/190109_Handwriting_generation_chlee.md)|
 |주어진 사진을 원하는 화풍으로 만드는 Neural Style|19/1/16|이민우|.|
 |Generative Adversarial Network|19/1/16|이진호|.|
 |[실습] RNN 실습|19/1/23|김정원|.|
+|딥러닝을 이용한 강화학습|19/1/23|조원재|.|
